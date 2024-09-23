@@ -1,2 +1,2 @@
-# Angular-Template
-Make the angular bone, ready to rebuild any time, any where for new project
+https://github.com/rafaelfgx/Architecture/tree/main
+https://github.com/mathisGarberg/angular-folder-structure/tree/docs
